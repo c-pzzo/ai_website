@@ -1,0 +1,5 @@
+!pip install scrapegraphai
+!apt install chromium-chromedriver
+!pip install nest_asyncio
+!pip install playwright
+!playwright install
